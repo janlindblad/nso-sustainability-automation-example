@@ -1,5 +1,7 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/janlindblad/nso-sustainability-automation-example)
+
 # Achieving Sustainability by Network Automation: Principles and Practice
-=========================================================================
+-------------------------------------------------------------------------
 
 This project can be used as a demo or hands-on lab for how to use a
 network orchestrator to continuously optimize a set of network services
